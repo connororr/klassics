@@ -1,11 +1,9 @@
 ## **Klassics' website**
-***
 
 A static website hosted on aws to record my basketball team's picks for awards for the upcoming nba season. 
 This app is built using React and Gatsby.
 
 ## **Usage Instructions**
-***
 
 ### **Seeing the website**
 
